@@ -1,0 +1,43 @@
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rankaves, Alexandros Rizos
+    aliases:
+    - Rankabes, Alexandros Rizos
+    - Rankaves, A. R. (Alexandros Rizos)
+    - Rangavis, Alexandros
+    - Ραγκαβής, Αλέξανδρος Ρίζος
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '41696'
+    url: http://www.gutenberg.org/2009/agents/41696
+    wikipedia: http://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%AD%CE%BE%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%CE%A1%CE%AF%CE%B6%CE%BF%CF%82_%CE%A1%CE%B1%CE%B3%CE%BA%CE%B1%CE%B2%CE%AE%CF%82
+covers:
+- cover_type: archival
+  image_path: 42454/42454-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+description: Parallel lives - Volume 1
+gutenberg_issued: '2013-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42454'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- Biography -- Early works to 1800'
+- !lcsh 'Greece -- Biography -- Early works to 1800'
+- !lcc 'PA'
+- GITenberg
+title: "Πλουτάρχου Βίοι Παράλληλοι - Τόμος 1 \r\nΘησεύς - Ρωμύλος - Λυκούργος - Νουμάς"
+url: http://www.gutenberg.org/ebooks/42454
