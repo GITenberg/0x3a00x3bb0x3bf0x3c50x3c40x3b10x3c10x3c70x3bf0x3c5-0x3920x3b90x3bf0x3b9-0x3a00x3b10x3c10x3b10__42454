@@ -15,9 +15,7 @@ contributor:
     wikipedia: http://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%AD%CE%BE%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%CE%A1%CE%AF%CE%B6%CE%BF%CF%82_%CE%A1%CE%B1%CE%B3%CE%BA%CE%B1%CE%B2%CE%AE%CF%82
 covers:
 - cover_type: archival
-  image_path: 42454/42454-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 42454-h/images/cover.jpg
 creator:
   author:
     agent_name: Plutarch
